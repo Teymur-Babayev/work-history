@@ -1,0 +1,103 @@
+Sure, I can help you with that. Below is an example of how you can perform CRUD (Create, Read, Update, Delete) operations using Firebase Firestore in your main.js file:
+
+```javascript
+// Import necessary functions and objects from Firebase
+import {
+  addDoc,
+  collection,
+  deleteDoc,
+  doc,
+  getDoc,
+  getDocs,
+  orderBy,
+  query,
+  setDoc,
+  updateDoc,
+  where,
+  deleteField
+} from "firebase/firestore";
+import { db, storage } from "../utils/firebase";
+import {
+  ref,
+  uploadBytesResumable,
+  getDownloadURL,
+  deleteObject,
+} from "firebase/storage";
+import { v4 as uuidv4 } from 'uuid';
+import { ConnectingAirportsOutlined } from "@mui/icons-material";
+
+// Function to add a document to a collection
+async function addDocument(collectionName, data) {
+  try {
+    const docRef = await addDoc(collection(db, collectionName), data);
+    console.log("Document written with ID: ", docRef.id);
+    return docRef.id;
+  } catch (e) {
+    console.error("Error adding document: ", e);
+  }
+}
+
+// Function to get a single document from a collection
+async function getDocument(collectionName, docId) {
+  try {
+    const docSnap = await getDoc(doc(db, collectionName, docId));
+    if (docSnap.exists()) {
+      console.log("Document data:", docSnap.data());
+      return docSnap.data();
+    } else {
+      console.log("No such document!");
+      return null;
+    }
+  } catch (e) {
+    console.error("Error getting document: ", e);
+  }
+}
+
+// Function to update a document in a collection
+async function updateDocument(collectionName, docId, newData) {
+  try {
+    await updateDoc(doc(db, collectionName, docId), newData);
+    console.log("Document successfully updated!");
+  } catch (e) {
+    console.error("Error updating document: ", e);
+  }
+}
+
+// Function to delete a document from a collection
+async function deleteDocument(collectionName, docId) {
+  try {
+    await deleteDoc(doc(db, collectionName, docId));
+    console.log("Document successfully deleted!");
+  } catch (e) {
+    console.error("Error deleting document: ", e);
+  }
+}
+
+// Example usage of the CRUD functions
+async function exampleUsage() {
+  const data = {
+    name: "John Doe",
+    age: 30,
+    email: "john.doe@example.com"
+  };
+
+  // Add a document to a collection
+  const docId = await addDocument("users", data);
+
+  // Get a document from a collection
+  const retrievedData = await getDocument("users", docId);
+
+  // Update a document in a collection
+  if (retrievedData) {
+    await updateDocument("users", docId, { age: 31 });
+  }
+
+  // Delete a document from a collection
+  await deleteDocument("users", docId);
+}
+
+// Call the example usage function to test the CRUD operations
+exampleUsage();
+```
+
+Please make sure to replace `"users"` with your actual collection name and customize the data object as per your requirement. This example assumes you have a collection called `"users"` in your Firestore database.

@@ -1,0 +1,62 @@
+https://codepen.io/tag/animation
+
+https://www.proglobalbusinesssolutions.com/css-hover-effects/
+
+https://www.proglobalbusinesssolutions.com/css-hover-effects/
+
+https://medium.com/@uixdesign/30-cool-css-animation-examples-to-create-amazing-animation-websites-56109990e618
+
+
+https://www.figma.com/file/CeX6nbLTUk3wjkVdGSP90H/Untitled?type=whiteboard&node-id=0-1&t=0eqdJI2smCWPBglf-0
+
+vscode extension veauty
+
+https://mui.com/material-ui/react-text-field/
+
+-------------------Color
+
+https://www.benjaminmoore.com/en-us/paint-colors/color/1564/beach-glass
+
+https://www.benjaminmoore.com/en-us/color-overview/color-palettes/most-popular-colors
+
+
+https://coolors.co/palettes/popular/blue
+
+
+
+---------------------PayPal sandbox URL
+
+https://developer.paypal.com/api/rest/sandbox/
+
+
+--------------------Deploy URL
+
+https://vercel.com/login
+
+https://www.netlify.com/
+
+
+--------------------Figma
+
+https://www.figma.com/file/FuczCtoqpAYkDiVa0pIV1B/Untitled?type=design&node-id=0-1&mode=design&t=z8k3QMw93vdigm6d-0
+
+
+
+--------------------FireBase CRUD URL
+
+https://dev.to/retool/crud-with-firestore-using-the-node-js-sdk-anp                      firebase nodejs module crud operations
+
+
+
+---------------------Graph   URL
+
+https://speckyboy.com/code-snippets-css3-bar-graphs/
+
+
+--------------------Care WebSite Sample Code
+
+https://codepen.io/NadaHussein/pen/vKRzPP
+
+
+reference ----------------------------------------------------hotel bot
+https://github.com/Gauravias/hotel-website
