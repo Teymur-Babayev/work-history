@@ -1,0 +1,335 @@
+Hi,
+I am a full stack web developer having over 6 years of experience.
+
+I have sound knowledge in following technologies:
+- React JS / Vue JS / Angular JS / GraphQL / JQuery / Native Javascript / Javascript
+- Node JS / Express JS
+- Python / Django / Flex / FastAPI / Data Science / Machine Learning
+- Solidity / Hyperledger / Consensus / Work flows / Networks
+- Blockchain / Smart Contract / YII2 / WEB3 / Ethereum / NFT / Smart Chain / NGNIX / ERC20
+- PHP / Laravel / Magento / Codeigniter / Wordpress
+- Flutter / ReactNative
+- MySQL / MongoDB / Airtable / PostgreSQL / Firbase DB
+- Serverless Arichitecture with AWS Lambda / Firebase Functions
+- Vicidial / WebRTC
+- Responsive Web Design / PSD to Responsive HTML
+- APIs (Facebook/ Twitter/ Google/ Stripe/ Payment Gateways / Mailchimp / Stripe Connect etc.)
+- GIT, BitBucket and other project management tool
+
+I am a very friendly & detailed oriented developer. I am always enthusiastic about learning new technologies and making a website more user-friendly. I have developed multiple websites and applications for all overseas clients. Highly organized and dedicated, with a positive attitude. Hardworking and committed to work.
+
+Thanks for reading my profile. Looking forward to a long-term relationship :)
+
+------------------------- Certifications--------------------------------
+Web Developer Master Course
+Provider: Udemy
+Issued: August 2020
+Successfully completed 66 total hours of The Complete 2020 Web Developer Master Corse online course on Aug. 25, 2020. Learn more
+
+------------------------------   Employment history-------------------------------------------
+
+Senior Front End Developer | Think Company
+October 2020 - December 2022
+Think Company, Philadelphia, PA, USA
+
+Technical Stack: React, Redux, Next.JS, Express.js, Bitbucket, GraphQL, AWS, Hasura
+* Added an additional average of 15% increase in annual company revenue with an
+average of 10 clients per month.
+* Collaborated with colleagues from other departments and participated in the creation
+and testing of new software applications.
+* Worked on automated tests to ensure code quality and reliability in accordance with
+best practices and fixed 40+ bugs in the project.
+* Wrote unit tests in Jest to ensure code was tested and 100% bug free .
+* Involved in complete Development Life Cycle including Requirement Analysis, Design,
+Implementation, Testing and Maintenance.
+
+Product Url: https://www.janney.com/
+
+less
+Junior Full Stack Developer | Sigma Software
+July 2017 - October 2020
+Sigma Software, Montreal, QC, Canada
+
+Technical Stack: React.js, Redux, React Bootstrap, ES6, Node, Django, Restful APIs, Tailwind
+CSS, AWS, Docker, Jest
+
+
+* Utilized MVC, Prototype and Singleton JavaScript patterns to develop application
+Coded frontend interface with Bootstrap, AngularJS, CSS, JS and HTML5.
+* Increased daily traffic from 45% to 80% in E-commerce platforms by redesigning
+existing websites to improve user experience and incorporated SEO.
+* Suggested 20+ improvements to product design and functionality as informed by userexperience
+reporting.
+* Implemented 10+ new features as defined and scoped by a product team of 9.
+* Collaborated with 2 client service teams to understand and solve bottlenecks and
+proposed feature expansions.
+* Involved in developing UI pages using HTML5, CSS3, JSON, JavaScript, Ajax, SEO.
+
+Product Url: https://www.sherpr.com/en/
+
+less
+Front End Developer | Direct Line Development Inc
+January 2016 - July 2017
+Direct Line Development Inc, King of Prussia, PA, USA
+
+Technical Stack: React, JavaScript/TypeScript, Material-UI(MUI), Node.js, Laravel, Heroku,
+PostgreSQL, MongoDB, Fintech
+* Increased ratings by an average of over 20% annually through optimizing performance
+and delivery of resources using Webpack
+* Developed natural 2-way pet marketplace that connects pet owners with the closest and
+best possible pet service providers and connected our backend to the server using
+AWS
+* Created more than 50 landing pages by utilizing HTML, CSS and JavaScript from
+scratch.
+
+Product Url: https://deskchairworkspace.com/
+
+less
+
+--------------------------------------------------------------------------------------
+
+
+--------------------------- Education-----------------------
+University of Manchester
+Bachelor of Computer Science (BCompSc)
+2011-2016
+--------------------------------------------------------------
+
+
+
+*****************
+Germany Male Faker names
+
+Nicolas Pankau
+Georg Nebe
+Klaus Wepper
+Daniel Scherzer
+Eric Blattner
+Max Hinrichs
+
+*****************
+Germany Female Faker names
+
+Luisa Weiss
+Willa Taussig
+Fiona Ehrenfeld
+Julia Walch
+Gina Klee
+
+******************
+Canada Male Faker Name
+James Christopher
+
+
+Profile
+
+Certified Full Stack Expert | Vue.js | Laravel | Node Js
+
+"There is a big difference between making a simple product & making a product simple." – Des Traynor
+==> I do not just deliver the working code, I deliver clean, scalable, easy to support and state of the ​art solution.
+
+I am a well-qualified aspiring Full Stack Developer with over 7 years of experience in Web Development. Not only proficient in high quality code and highly responsive UI development using wide range of programing languages, but also brilliant at handling problems in any part of process with ease, especially in Vue for front end development.
+
+🟢 150+ websites worked
+🟢 High Client Recommendations
+🟢 100% Free Support On my Work.
+🟢 100% Satisfaction Guaranteed.
+
+Services I provide:
+⚡️Frontend: Vue.js, Vuex, Nuxt.js, WebSocket, Webpack, Babel, GraphQL
+⚡️UI/UX: CSS 3, HTML 5, SCSS, Bootstrap, Tailwind CSS, Material UI, Styled Components
+⚡️Backend: Node.js, Express, Nest.js, Laravel, Django, Flask
+⚡️Database: MySQL, SQLite, PostgreSQL, MongoDB, Firebase
+⚡️ Creating REST Services and APIs using Swagger Specifications.
+⚡️Payment Gateway Integration: PayPal, HyperPay, Stripe, Authorize.net, Bluehost, Razorpay, Instamojo, etc.
+⚡️Version Control: Git, Gitflow, SVN, SmartGit, Bitbucket, GitLab, GitHub
+⚡️Open Source: Twilio, Rocket Chat, Ionic, Material UI, Ant-Design
+⚡️DevOps: AWS | Heroku | Digital Ocean | Google Cloud | Azure
+My clients have a LOT to say about my work:
+⚡️Tools: VS Code, Visual Studio, WebStorm, IntelliJ IDEA, Puppeteer, Handlebars,
+⚡️Unit Testing / Integration Testing / End-to-End Testing
+⚡️Collaboration Tools - Jira, Asana, Azure, Jira Confluence, Jira Story Points, Slack, Trello
+
+🏆"He is amiable and competent. He is easy to reach and is responsive to anything needed to be done."
+🏆 "He was absolutely excellent, with great communication, easy to work with, and over-delivered!"
+🏆 "It was a great experience to work with him, he has completed the job and provided us with a piece of great information. He is a good listener and patient with our requests needs."
+🏆 "He is a very skilled developer who is highly cooperative, and works at a reasonable cost. Adherence to deadlines was mostly on point during the contract I had with him."
+
+
+Why choose me over the other freelancers❓
+✔ Client Reviews: I focused on providing value to all my client and earning their trust. Client feedback is essential for me with the values I provide
+✔ Over Delivering: My main focus is to deliver my client some extra beyond their expectation. I am proud of getting from all my client 100% recommendation.
+✔ Responsiveness: I am 24/7 available and keep all lines of communication open for my clients
+✔ Respect: I treat all of my clients with Respect, understand all situations, and genuinely want to improve my client situation
+
+I am comfortable working on both long-term and short-term projects.
+I can be flexible in any time zone. I have clients all over the world.
+Would be happy to work with you!
+
+Exceptional Expert: Vue/React | Laravel/Node.js | TypeScript
+I am seeking opportunities to work on websites to promote you or your business.
+
+**7+ years of experience** in Web Development.
+I came across a wide range of websites and **Web-Based Applications** as a Laravel Developer using PHP Frameworks. as WordPress developer. And other skills like Woo-Commerce, CodeIgniter, CakePHP, Website Development.
+
+
+☀ PHP Framework: Laravel, CodeIgniter, CakePHP, Vue.js and CMS
+☀ MERN Stack [React, MongoDB, Express(.js), Node.js web framework] Expert
+☀ PHP-CMS: WordPress, Shopify
+☀ Payment Gateways: PayPal Checkout, Google Checkout, and other API integrations
+☀ Web services: REST-compliant Web services(XML, JSON), SOAP
+
+▶ My Passion for Vue/Laravel Full Stack Development is much more than sitting at a computer making ugly things look beautiful. I believe design is to inspire and broaden minds and I intend to achieve this with my quality work.
+
+I excel in creating
+✔ Business websites,
+✔E-commerce portals,
+✔E-learning portals,
+✔Classified websites,
+✔Membership websites,
+✔Social Networking websites,
+✔complex Marketplace portals, and
+✔other Open Source Development.
+
+▶ I do **both urgent and long-term projects**
+I have worked in a wide range of industries promoting websites from startup companies, small businesses, e-commerce businesses, and larger organizations.
+
+▶ My experience in the **Digital Marketing industry** has also enabled me to be in line with the inner workings of Google algorithms which have immensely helped me in helping online businesses with their digital marketing needs.
+
+▶ My core competency lies in search engine optimization, social media marketing, link-building services, and online marketing and research.
+
+
+
+PHP | Laravel | CodeIgniter | React JS/Vue JS
+
+I have 7 years plus extensive hands-on experience in PHP/MySQL, Laravel, CodeIgniter, HTML/CSS3/Bootstrap, JavaScript/jQuery/Ajax, React JS, Vue JS, and Node JS, WordPress for website development and responsive web designing.
+
+Frontend and Backend development using PHP/MySQL, Laravel, CodeIgniter, React & Vue JS
+WordPress website , Theme & development and designing
+PSD /HTML to WordPress website theme and website development/designing
+
+HTML/HTML5 , CSS/CSS3, JavaScript/jQuery, React JS, Vue JS, Node JS, Bootstrap, Photoshop
+
+PSD to HTML/CSS/BOOTSTRAP Template Designing
+
+Database: MySQL, Mongo DB, PostgreSQL, SQL Server,
+Editors: Sublime Text, Notepad++, NetBeans , VS code , Android Studio
+
+- Strong in Developing Web Apps using PHP and CMS (WordPress, Squarespace, Wix , Joomla)
+- Strong in Developing Enterprise level Web Apps using PHP/MySQL and MVC Framework Laravel and CodeIgniter
+- Making Dynamic themes using WordPress, Magento CMS, and Bootstrap Responsive Design
+- Good in Customizing WordPress, Squarespace, Joomla themes
+- An experienced team player with excellent communication and interpersonal skills who can work independently under pressure
+- Self-motivated, goal-oriented, and great desire to learn
+
+
+Senior PHP Developer | Montreal, QC, Sigma Software
+January 2021 - December 2022
+Montreal, QC, Sigma Software
+
+Canada
+-Developed a tool to import the data of the new client's clinic/medical systems into the SaaS
+application that was the main product of the company.
+-Deployed more than 30 projects, including systems, websites and mobile apps.
+-Technologies used: NodeJS, PHP, Parse, MongoDB, CakePHP, CodeIgniter, WordPress and RESTful
+API with Laravel.
+-Tested website and performed troubleshooting prior to deployment.
+-Handled whole projects from scratch idea to production deployment.
+
+less
+Junior PHP Developer | San Francisco
+January 2018 - December 2020
+San Francisco, GetMyBoat
+
+California
+-Integration of user-facing elements developed by front-end developers.
+-Writing back-end code and building efficient PHP modules
+-Test and develop software for client applications
+-Updating and altering web application features to enhance performance.
+
+less
+PHP Developer | Turner - Wisoky
+January 2016 - December 2019
+
+
+-I have developed new features CakePHP
+-I was responsible for leading team of 12 people
+-Single-handedly building front-end and the back-end of many sites.
+-Worked on a migration of company's project using Slim framework.
+
+
+
+
+Exceptional Frontend Developer with 6 experience | React & Next.js
+
+
+Education
+Capella University
+Bachelor's degree, Computer science
+2014-2016
+Conestoga College Institute of Technology
+2010-2014
+
+
+Employment history
+Senior React Developer | LATTICE STUDIOS
+April 2020 - August 2022
+* Initiated the front-end project set up with React, Redux, Redux-saga, and Material UI for an
+opensource data visualization tool
+* Rendered GeoJSON data to SVGs with custom area selection using D3
+* Implemented the Small Business Support data visualizations page and comparison page. Used
+Storybook to test all the components in isolation and document them
+* Developed front-end user interface using React Native and Javascript for iOS and Android
+mobile applications.
+
+less
+Junior React Developer | MAJESTIC
+July 2018 - March 2020
+* Created a multi-dimensional stocks chart with amCharts
+* Tested and demonstrated React components using Storybook.
+* Used React Router for client-side routing and axios for making asynchronous HTTP requests
+* Created unit tests using Jest and Enzyme to test React components and Redux reducers
+
+less
+Frontend software engineer | OLEARIS
+April 2017 - June 2018
+* Refactored the file risk management platform to use the latest stacks specific to each
+version..
+* Implemented an API call with cancelable promises using React Hooks
+* Executed the tracking of analytics through Sentry and back-end API calls.
+* Wrote unit tests using Jest and added snapshot tests to all the UI components.
+* Built a marketing site including a landing page with Metalsmith site generator.
+
+
+
+Portfolio
+
+Ritzcarlton
+
+Skills and deliverables
+
+Redux React PHP Nuxt.js Node.js MySQL MongoDB
+
+Project description
+Experience The Ritz-Carlton luxury hotels and resorts that craft unforgettable travel experiences in the world's top destinations.
+https://www.ritzcarlton.com/
+
+
+PaySomeoneToDo
+
+
+Project description
+A website that specializes in helping students with homework assignments quizzes tests exams and online class.
+
+At PaySomeoneToDo.com, we specialize in orchestrating a seamless process of searching and securing the right individuals to get the job done. It doesn't matter what part of the academic process you're in, there's a certain standard you'd like to maintain. After all, this ends up reflecting in the grade you receive at the end of the semester. So, if you can find someone that is highly-qualified to take care of the work for you, it sounds like a win-win situation.
+
+https://paysomeonetodo.com/
+
+
+Frankel Insurance
+
+Skills and deliverables
+MySQL Laravel Vue.js MongoDBT ailwind CSS
+Project description
+A full-service Los Angeles based insurance brokerage, providing a diverse range of insurance coverage including workers' compensation
+https://www.frankelinsurance.com/

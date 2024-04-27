@@ -1,0 +1,34 @@
+Hello
+I read ur description very carefully and i can do it on time you want.
+I am skilled Swift computer programmer with skills including JavaScript, Front-end Design, Cocos2d, Mobile App Development and Web Development.
+
+I am iOS mobile app developer with 10 years experience
+Extensive exp. in complex UI and custom solutions
+Code Example - in Portfolio
+iPhone / iPad / Apple Watch / Apple TV
+Swift / Objective-C / SwiftUI / Flutter / Dart / React Native
+Project Catalyst: iOS / iPadOS to macOS
+Development clean code using patterns
+
+- Storyboard / .xib interface / AutoLayout / Lottie / Dark Mode / WidgetKit / Core NFC
+- Adobe Photoshop / Illustrator / XD / Figma / Sketch
+- CocoaPods
+- GitHub / SVN / Bitbucket
+- Push Notifications
+- In-App Purchase
+- Localization / iBeacon / CallKit / VLCKit
+- XCTest / On-Demand Resources / Content Blocker for Safari
+- SQLite / Core Data / Realm
+- Core Location / MapKit / Mapbox / Core ML / Vision / Zoom SDK / Spotify / Twilio
+- Firebase / Fabric / Crashlytics / Alamofire / SDWebImage / ObjectMapper
+- Social API: Instagram, Facebook, Twitter, Snapchat, Foursquare, YELP
+- Stripe payments
+- JSON, XML
+- ARKit, Chromium for iOS, Blockchain
+- Apple TestFlight, App Store submission
+- tvOS / TVML apps
+- iMessage apps, Sticker Packs, CloudKit, Parse.com, Arabic Apps, Tinder like Apps, Custom Controls
+
+Please send a message to discuss more regarding this project.
+Thank you
+Niyaz

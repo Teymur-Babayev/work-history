@@ -1,0 +1,592 @@
+++++++++++ Senior Blockchain, Web and Desktop Developer   +++++++++++++
+
+Hello everyone!
+I am a proficient in  Web and Desktop Development.
+I have 5+years of experience in IT development, especially ASP.Net Core, WPF, MVVM.
+
+Then, I am a self-start who is capable of building entire application on my own, but I like to work with TEAMs.
+I excel at finding ways to build software solutions that exceed client expectations, and yet are simple and reliable.
+
+The following are my skillset:
+P2P Payment: Smart Contract, NFT, Blockchain (Solidity, Web3.JS), Ethereume
+Backend: ASP.Net Core / MVC
+Frontend: React.JS, Angular (Redux, Next.JS)
+Database: My SQL, Azure, Firebase, Redis, MongoDB, Oracle SQL, Postgre SQL, MS SQL
+Desktop: C# (WPF, UWP), MVVM Pattern, ElectronJS, DevExpress
+Cloud Backend: Amazon Web Service, AWS Amplify, AWS Amplify SDK, CloudFront, Serverless, AWS Dynamic DB,S3, SaaS and so on.
+Web Scripts: TypeScript, JavaScript, CSS, HTML
+UI Design: Material-UI, AntD, element-ui
+** (Entity Framework, .Net Frameowork) **
+
+
+I am fully available now, and able to dedicate full time to you.
+Thank you for your consideration.
+Best Regards,
+
+**************** Skillset ***************
+ASP.Net Core
+ASP.Net MVC
+ASP.Net
+C#
+React.JS
+Angular
+MySQL
+Microsoft SQL Server
+Amazon Web Service
+DevExpress
+CloudFront
+Serverless
+SaaS
+Blockchain
+NFT
+Smart Contract
+Solidity
+Redux
+WPF
+UWP
+Microsoft Azure
+Microsoft Access
+DevOps
+MVVM
+
+
+
+
+ +++++ ASP.Net (1) ++++
+Hello, there. After reading your description of Job, I ensure I am a perfect fit for this position.
+I have extensive knowledge and rich experience in developing ASP.Net Core / MVC and React from the results that I have 5+ years of experience.
+Here are my skillset for this position:
+
+• Strong C#, ASP.NET Core / MVC, and MS SQL, MongoDB Server skills
+• Strong at Microsoft Azure
+• Neat Web UI Design with JQuery, React.JS and Material-UI, AntD
+• Strong software engineering fundamentals, including data 
+• Ability to deliver the best patterns and practices to solutions in a fast-paced environment.
+• Excellent verbal communication skills.
+
+I strive to create neat architecture and smart implementation is always promised.
+I have a flexible work schedule and will be available whenever possible.
+I take pride in my work and in seeing my work benefits my clients.
+Give me the opportunity to show you what I can do for you.
+Best Regards,
+
+
+ ************ ASP ***************
+Thank you for this wonderful opportunity.
+As I am a senior .NET developer, I have 6+ years of experience in JavaScript, React.js, ASP.NET Web API,ASP.NET Blazor, XAML, Entity, LINQ, MSSQL and Oracle.
+I am also familiar with the MVC, MVVM, Singleton, IoC Container, Unity Container.
+And I am a expert in Procedures, Functions, Packages.
+These are my past projects
+http://demo.topmanufacturingerp.com
+http://dashlet.uveoustech.com
+http://pmrerp.uveous.in
+https://langcorrect.com/
+https://www.oqtane.org/
+
+Moving ahead, I can work for 40 hours/week for your job, and my everyday time is flexible. I am very energized to provide my solutions for your job. You can get in touch with me immediately to talk about this place further.
+If you would like to further discuss this project, I can make myself available for an interview at a time convenient for you. I look forward to hearing from you soon.
+Best regards.
+
+
+ +++++ ASP.Net (2) ++++x`g idea project. 
+Hello. C#/.NET/MVC/CORE/BLAZOR/API/Azure development are My core expertise.
+I offer website development services, I know how challenging it can be to find the right platform for your web development needs.
+
+Here are My Last Works:
+http://demo.topmanufacturingerp.com (Enterprise Resource Planning for Trading and manufacturing Industries)
+http://dashlet.uveoustech.com Swagger API Url
+http://dashlet.uveoustech.com/Swagger/index.html
+http://pmrerp.uveous.in/ (Customer Releationship system for Movers and Packer Industries)
+https://langcorrect.com/
+http://rakata.topmanufacturingerp.com/ (ASP.Net Core & React.JS)
+
+I hold one goal above all others: 100% client satisfaction. Our in-house team of web designers, copywriters, graphic designers, and developers uphold the highest standards for project planning and execution, and I am dedicated to building the perfect website for your company on time and within budget.
+I have built websites for several brands around the world with great success, and are quite excited to get to work on yours.
+In this proposal, you’ll find examples of our past work along with what I feel is the optimal solution for your website development needs, along with the associated delivery timeline, costs, and project terms.
+Thanks again for the opportunity to earn your business!
+
+Best Regards,
+
+
+++++++ NFT (1) +++++
+
+Hi, there. At first, please, check http://farmersworld.io/ . As you can see it, I am a perfect fit for this position.
+I have extensive experience with creating an NFT minting site, NFT game sites, etc. 
+
+My previous works for NFT Marketplace :
+https://www.elefworld.com/
+http://farmersworld.io/
+https://app.cooperplanet.io/
+https://app.cryptozoon.io/marketplace
+https://www.cryptoblades.io
+
+https://cryptomines.app/
+https://www.travian.com
+https://www.tribalwars.net/en-dk/
+
+Here are my skillset for this position:
+- Solana, Rust
+- Cryptocurrency Exchange Site (based on ETH, BTC, NEO)
+- ICO (Ethereum, Waves)
+- ERC20-23, BEP-20, ERC-721, ERC-1155 Token, Solidity, Smart Contract, Web3, Truffle
+
+I'm familiar with agile project management tools including Slack, JIRA, Trello, Bitbucket, Github, etc.
+ I ensure the highest quality of product and 100% satisfaction through my work. I can work on 7/24 for your project.
+ Also, I have a senior Unity and  developer who is very familiar with creating new Blockchain Platform & Web dev and etc. 
+I am innovative and strategic thinking professional with a proven track record of consistently going above and beyond in meeting customer needs and providing more value to the product than what the customer is paying for.
+
+I hope we can discuss more details in chat.
+I'll look forward to hearing from you soon.
+Kind Regards.
+
+++++++++ NFT (2) ++++++++
+Hi, there. Thank you for your job posting. I have good experience to work with developing NFT marketplace using web3js and nodejs, Unity 3D. So I ensure 100% I can make it in a short time perfectly.
+As a 5 yrs experience with software development, work with medium and big companies in russia.
+Through reading your description, my experience will help you and your project.
+
+Here are my past works:
+
+http://improvidor.com
+https://etherscan.io/address/0x45db714f24f5a313569c41683047f1d49e78ba07
+https://demo-toothlesswizards.tilda.ws/
+
+Here are my skillset for this position:
+
+- Unity3D, Photon
+- Exchanging based on ETH, BTC, NEO
+- ICO (Ethereum, Waves)
+- ERC20-23, BEP-20, ERC-721 Token, Solidity, Smart Contract, Web3, Truffle
+- Cryptocurrency Trading, Lending Bot (Binance, Bittrex, Poloniex, CoinBase)
+
+
+If you are interest, Please let me know and discuss your project in detail,
+Best Regards,
+
+if you choose me, you can assured that you are getting top notch expertise in application development .as well as who will complete you jobs correctly the first time.
+
+can we discuss your project in detail and identify my skillset will work best for you and provide immese value to your organization as well.
+
+Best Regards,
+
+
+++++++++++++++++++ Flutter & React Native 2 +++++++++++++++
+
+
+Hi, thee. Reading your job description, 
+I glad I think I am a perfect fit for this position.I am an React Native and Flutter developer with Firebase and have been working in this interesting profession for 5+ years and have become able to extract immense success through it. As I have gone through your job post with full attention. I can assure of my capability and wisdom which are worth the job.
+
+I have earned a lot of technology based competition by creating several interesting apps. Thus, android apps and iOS are nothing but a PlayStation for me. I am so skillful of creating new apps in these devices and can monitor them with total effort.
+
+Here are my past works:
+
+https://apps.apple.com/us/app/swimply-book-beautiful-pools/id1472785554
+https://apps.apple.com/my/app/propertyguru-malaysia/id487538098
+https://play.google.com/store/apps/details?id=com.barfee.mart&hl=en https://play.google.com/store/apps/details?id=com.emmaprod&hl=en https://apps.apple.com/gb/app/emma-budget-planner-tracker/id1270062373
+
+I have a group ready to help me out of any complex situation and we understand the effect of group work. I run tests for my new project and submit it on time. I am a full on servant to my client until the job is done.
+
+Best regards,
+
+
+
+++++++++++++++ Unity 3D (1)+++++++++++++
+Hi, there. How are you?
+I ama Proficient in making attractive Game & AR & VR apps using Unity, OpenCV, Mediapipe and Unreal game engine. Having more than 5 years of experiences in creating mobile and pc based apps. Created lots of AR apps using Vuforia, ARCore & ARKit and VR apps for HTC Vive,+ Gea:
+r VR, Oculus Rift.
+
+Technical Skills=============
+-Multiplayer : photon
+_ Game Engines : Unity, Unreal Engine
+-Mediapipe, OpenCV (detection of color, detection of object, detection of face and so on)
+_ 3D Modelling & Art, 3D Rendering, UV Unwrapping, 3D Texturing : 3DS Max, Maya
+_ Virtual Reality : HTC Vive, Oculus DK2, Gear VR, Google Cardboard, Oculus Go
+_ Augmented Reality: Vuforia, ARKit, ARCore, Kudan
+_ Body Sensing : Kinect v2
+
+Please feel free to contact me for sharing your requirements and getting estimates on your projects.
+
+Looking forward to hearing from you soon.
+Best regards,
+
+
+++++++++++++++++ Unity 3D (2) ++++++++++++++++
+
+Hi, there. How are you?
+I have  experienced and proficient Mobile Application developer & Graphic Designer possesses more than 6 years of rich experience in the field of:
+pment
+- Mobile Game Development for iOS, Android, Windows using Unity3d, cocos2dx,
+Corona SDK etc
+- Multiplayer Games, FPS Games, Board Games & Strategy Games
+- 3D Modelling & 3D Animation
+- Open CV
+- VR and AR
+- Mediapipe
+Also
+✓ 2D Graphics, Designing & Sketching
+* Logos
+* Banners
+* Flyers
+* Brochures
+* Catalogs
+* caricature
+* Infographics
+* Illustration
+
+I am very passionate, hard working and honest towards my work. I am a good time keeper and a vivid learner. Helping others and my polite nature makes me super confident in the kind of work I exhibit.
+Just get in touch if you have any questions, or want to discuss a potential project, just send a message and & will be happy to help.
+Looking forward hearing from you soon.    
+Best regards,
+
++++++++++++++++ Smart Contract ++++++++++++++
+Hello. How are you?  I am interested in your project. And I think I am a perfect fit for this position.We are having 3+ years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | NFT| ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps.
+
+We evaluate, develop and maintain blockchain and Cryptocurrency related products.
+
+Here are our past work:
+
+- IDO Launchpad platform 
+https://sit.corestarter.com/
+
+- Trading Bot Websites
+https://www.bitcoiva.com/trade/BCA_INR
+
+- Mint Site
+https://mysticwizards.io/
+https://www.thepoopstars.com/
+https://mruncommon.io
+https://www.curiousaddys.com/
+
+
+Our Expertise :
+• Trading for CryptoCurrency
+
+• NFT (Non Fungible Token) Marketplace Development
+
+• Crypto Coins Exchange Development
+
+• ICO & IDO Development with Created Token ( Coin )
+
+• Smart-Contracts (Solidity, Truffle framework)
+
+• Smart Contracts Audits
+
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+
+• DLT Apps & Private Blockchain Development
+
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+
+My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.
+Looking forward to hearing from you soon.
+
++++++++++++++++++++ Smart Contract 2 +++++++++++++
+Hi, there.
+As a senior full-stack and Blockchain developer, 4 years of development and project management experience, with the last 5 years of expertise in Blockchain architecture, Cryptocurrency Wallet Development, Smart Contract, Crypto Coins Exchange Development.
+Looking for long-term opportunities that appreciate high-quality standards with quality and maintenance code.
+
+SERVICE :
+- Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | TRON)
+o ERC-20 | ERC-721 | ERC-1155 | ERC-721A
+o Crypto Coins Exchange Development
+o Decentralized Finance(Defi)
+o NFT marketplace
+o Development and Audit Smart Contract
+o DEX Development
+
+
+
+EXPERIENCE :
+- Solidity, TronWeb, Web3.js
+- NodeJS | ReactJs | VueJs | Angular
+
+Looking forward to hearing from you soon.
+Best Regards,
+
+
+++++++++++++++++ Normal Bid 1 ++++++++++++++
+Hello, how are you? I ensure I can complete your project in a short time.
+I read your job description and I am very interesting in your project.
+ I have rich experience in developing websites with react.js, next.js and material-ui, antD and so on.
+If you choose me, you'll never be disappointed to me. 
+I am always working with thought that your job is my job and I will do my best to help you anytime.
+Please let me know when we can discuss further in more details. Waiting to hear from you soon . 
+Best regards,
+
+++++++++++++++ Normal Bid 2 +++++++++++++++
+Hello, there!
+ I hope you are doing great.
+ I have good experience with doing similar jobs.  I can do this job because have great experience with the area you want. 
+Please start the chat and discuss this. 
+Thanks!
+
+
+++++++++++++++++++++++ Figma +++++++++++++++++++
+
+++++++++ ionic ++++++++
+
+Hope you are well.
+I have read the job description carefully.
+I am a senior full-stack software engineer with over 6 years experience in Angular, Ionic Framework.
+I can working full time(over 40 hours) per week.
+It will be my great pleasure to work on your project.
+Looking forward to the discussion in more detail.
+Warm regards.
+Thanks.
+
+
++++++++++++++++++++++ Machine Learning +++++++++++++
+
+Hello, there. I am a machine-learning practitioner with 5+ years of experience in Data mining, Machine Learning, Deep learning, Statistical Modelling, Computer Vision and Natural Language Processing.
+
+I have worked across various domains such as Banking, Insurance, Forex, Stocks/Cryptocurrency, Healthcare, Telecom and Business Development within last 5 years. I am a specialized Data Scientist and Machine Learning/Deep Learning Practitioner with a Preferred badge with over 180+ satisfied Clients.
+
+Your project and satisfaction is my commitment.
+
+Highlights:
+
+▮ High-performing Data Science and Machine Learning professional with extensive experience in BI/ Data-Science/Machine Learning Deep Learning life cycle management from conception to completion.
+▮ Having deep understanding of algorithms and data structure i.e. all facets of supervised and unsupervised learning and data munging techniques to meet the analytics and AI needs.
+▮ Hands on with web scraping, database management, modelling, integrating disparate systems for data analysis or Machine Learning / Deep Learning/ AI applications.
+▮ Deep Learning and Computer Vision, Big Data based high-performance based solutions and services.
+
+
+- Highly proficient in Python and R.
+- Experienced in building end-to-end pipelines for data manipulation, modelling, model deployment and optimizations.
+- Knowledge of variety of data visualization
+- Knowledge of variety of machine-learning algorithms:
+- Regression (Linear, Logistic Regression, Multiple, GLM)
+- Statistical Modelling (Cluster Analysis, Decision Trees, Regression)
+- Classification (Naive Bayes, Support Vector Machine,Decision trees, Ensembles - Random forests, Gradient Boosting)
+- K Means/ hierarchical/DBSCAN/Affinity/Agglomerative/Spectral)
+DeepNets/Theano/Keras/Tensorflow/CNN/LSTM/ImageProcessing/StockPrediction/Predictive Modelling/Pytorch/Theano.
+- HoltWinters, ARIMA
+- Tools (Tableau, QlikView, QlikSense)
+- Database Management System- MySQL, MongoDB
+
+I strive to create neat architecture and smart implementation is always promised.
+I have a flexible work schedule and will be available whenever possible.
+I take pride in my work and in seeing my work benefits my clients.
+Give me the opportunity to show you what I can do for you.
+Best Regards,
+
++++++++++++++++ Desktop +++++++++++++++
+++
++++++++++++++++++++ Mern Stack +++++++++++
+Hi, there!
+I am a proficient in  Mern Stack Development.
+I have 5+years of experience in IT development, especially 
+React, Redux, Angualr, Express.JS, Socket.IO and so on.
+
+Then, I am a self-start who is capable of building entire application on my own, but I like to work with TEAMs.
+I excel at finding ways to build software solutions that exceed client expectations, and yet are simple and reliable.
+
+The following are my skillset:
+
+Backend: Express.JS
+Frontend: React.JS, Angular (Redux, Next.JS,Rx.JS)
+Database: My SQL, Firebase, Redis, MongoDB, Postgre SQL
+Cloud Backend: Amazon Web Service, AWS Amplify, AWS Amplify SDK, CloudFront, Serverless, AWS Dynamic DB,S3, SaaS and so on.
+Web Scripts: TypeScript, JavaScript, CSS, HTML
+UI Design: Material-UI, AntD, element-ui
+
+I am fully available now, and able to dedicate full time to you.
+Thank you for your consideration.
+Best Regards,
+
+
+++++++ NFT Art Upload +++++++++
+Hello,
+Recently we have completed the similar project, as you can test it here as well, the project is currently live on server.
+https://opensea.io/collection/wolf-game-migrated
+
+Plus we also deploy Moon boys NFT’s on opensea.
+https://opensea.io/MoonPassTheMoonBoyz
+
+I have read your requirements and you require us to upload 3000+ NFTs on open sea
+
+
+We have done multiple similar task in the past working with ERC-20, BEP-20, Nano, Terra, Stellar, Solana etc
+
+We have live ICO project as well which you can check for the quality of our work
+
+amzcoin.technology
+hoteienergy.com
+
+We have also Build a crypto exchange
+
+pro.collubus.com
+
+Currently we are working on a NANO fork creating VBAN coin and its ICO
+
+vban.io
+
+We are the best fit for your job as we have all the relevant skills required to build your smart contract which is solidity and build your ICO platform which we have also done in the past multiple time
+
+I would like to hear from you so that we can discuss the project in a bit more detail and hopefullty start working for you ASAP
+
+Thankyou
+
+
+---------------- Google Doc ----------------
+https://docs.google.com/spreadsheets/d/1AFLSPDjzVbTeZe4n-y2T42rd9OuuNm-jGucQmYQGcqE/edit#gid=0
+
+--------------------- Call ------------
+Thank you for your reply.
+I am afraid, we aren't allowed to call through Google Meet and Zoom due to the safety of my company. So, at first, I'd like to discuss the draft with you on Skype. (live:.cid.16ce917fd031e5db)
+Then, I'd like you to choose Channel you want such as WhatsApp, Discord and Telegram.
+My time zone is GMT + 6
+I am available for an interview at your earliest convenience.
+Thanks.
+
+
+************* full stack *************
+
+Hi, there. How are you? I am happy to send proposal on this project.
+
+I am a senior developer have 4+ years of experiences in React, NEXT, Redux, React bootstrap, Firebase, React + Python(Django, Flask) and MERN stack with modern, trend technology such as Material-UI, Tailwind-CSS and React Hooks.
+
+And also I have 5+ years of Ecommerce, Blog and Booking experiences with React Redux and React Ecommerce Themes.
+
+I have seen your project's requirements carefully. I am ready to start your project right now and I really can complete your project perfectly in a short time.
+
+And fortunately I have completed a similar project for an other employer just 5 days before.
+I am really feel confident about this project and I think that I'm the right person for this work because I have many good projects that I have accomplished.
+
+You can check my previous works here.
+https://aquerate.com
+https://ebbportal.com
+https://myketomarketplace.com
+... 10+ websites
+
+I really want to work for you. You will see my ability.
+Please contact me for more discuss so we can start the project right now.
+Looking forward to hearing from you soon.
+
+Best regards!
+
+++++++ Upwork ++
+Job Title: Senior Blockchain & Full Stack Developer
+Skillset:
+Blockchain,
+Smart Contracts,
+Solidity
+Ethereum
+React
+Angular
+web3.js
+ASP.Net Core
+ASP.Net MVC
+ASP.Net
+WPF
+C#
+Desktop
+MVVM
+
+
+
++++++++++ IPFS +++++
+https://app.pinata.cloud/
+password: password"19981122A
+
+
+
+
+
+
++++++++++++ Restaurant+++++
+
+"Food"
+Hi, there.
+ I've been designing Restaurant sites for local businesses from UI/UX design to live deployment for over 4 years. 
+
+Please, check my past work in restaurant project.
+https://www.figma.com/file/Ee0nI7HRBfwrBeNmxOkva5/Restaurant-Eating-Delicious-Food-Web-Landing-Page-(Community)?node-id=0%3A1
+https://www.figma.com/file/upZ5B6O5XCfwQVfs7JX7c0/Restaurante-%C3%81rabe-(Community)?node-id=0%3A1
+https://www.figma.com/file/lXQgSwLN6xan1XSfyFyktv/Web-design-restaurant-(Community)?node-id=0%3A1
+https://www.tikichick.com/
+https://www.reigntoronto.ca/
+https://www.theogdenver.com/
+
+I will build a sales optimized website for your restaurant that will allow your online customers to place orders and make table reservations directly from your website. 
+
+• Mobile First Design
+
+Over 50% of restaurant online visitors are on mobile devices. 
+
+• One-click Ordering, Reservations, & Delivery
+
+With digital ordering and delivery on the rise (growing 300% faster than dine-in), having a food ordering system on your site is essential.
+
+• Run Promotions & Coupon Deals
+
+Entice your website visitors to add more food items to their cart with 10%, 15%, 20% off discounts if they reach a specified currency amount.
+
+• Easily update Food Ordering Menus 
+
+Easily add categories, choices, add-ons, and photos to your menu any time you need to.
+
+• Receive & Confirm Orders
+
+Get all your restaurant's online orders in one place with a reliable order taking app.
+
+Fully Functional Restaurant Website with Online Ordering
+
+- Online Food Ordering - 
+
+Thanks.
+.
+
+
+
++++++++ Python ++++
+
+
+Hi, there.
+I will write a Python script or one typical simple task.
+
+I have 8 years of professional experience with Python and an MS in Information Technology.
+
+I have a strong experience with pandas, numpy, lxml, bs4, PyQt5, tkinter, pdfminer, xlrg, regex, Py2PDF, matplotlib. I prefer to use PyCharm.
+
+I have a strong experience with the algorithms and data structures well.
+
+Let's work together!
+I will write a Python script or one typical simple task.
+
+I have 8 years of professional experience with Python and an MS in Information Technology.
+
+I have a strong experience with pandas, numpy, lxml, bs4, PyQt5, tkinter, pdfminer, xlrg, regex, Py2PDF, matplotlib. I prefer to use PyCharm.
+
+I have a strong experience with the algorithms and data structures well.
+
+Let's work together!
+
+
+++++++++++ Audit ++++++++++
+Thanks for your interest!
+
+If you choose to work with me, I will provide up to 30 minutes of live consultation via a zoom-call, answering any and all questions.
+
+Why Audit?
+
+So you avoid getting hacked
+So you avoid getting scammed (if you wish to check a 3rd party contract)
+So you provide evidence of security (my report) to your customers
+
+Here is a simple overview of my service:
+
+Methodology
+
+Manually check and revise the smart contract line-by-line
+Run automatic tests to find errors
+Generate report on bugs/errors found, and revisions to fix them.
+
+What Will You Get?
+
+Detailed report (see example) on security issues & fix recommendations
+30 minutes live consultation
+Unlimited revisions
+
+The process will take no more than 2 days, and I am open to an UNLIMITED number of revisions!
+
+Finally, many clients have custom questions to ask about smart contracts. I will answer any and all questions, at all times!

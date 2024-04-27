@@ -1,0 +1,45 @@
+
+-----------9y* Full Stack | Shopify | E-commerce Site | Shopping Site
+
+I believe that even details that are not easily visible are important parts of design.
+As a passionate and skilled and sincere  Senior Full Stack developer with 9+ years of hands-on experience who is always dissatisfied with myself, learns humbly, and has the spirit of completing to the end what I starts.
+Moreover, my proficiencies with various Responsive WebDesign, SEO, Restful API  along with online marketing skills  leveraged to optimize many kind of WebSite post-development by increasing its ranking and driving traffic.
+Everyone sets high goals, but few achieve them.
+I believe that anyone can achieve the goals they set if they believe in themselves, learn hard, and work hard with high mental strength and perseverance.
+
+
+-----------PortFolio
+Casino
+
+Good communication with the customer in Argentina helped eliminate bugs in the project.
+I have improved the quality and functionality of the management of the Laravel framework.
+
+Canada
+
+This project is a Shopping Site that was successfully completed through good cooperation with a Canadian client.
+This project required elegant design and SEO technology etc to provide detailed explanations needed by many customers and ensure convenience in purchasing products.
+
+
+Shopify
+
+People want their favorite sites to be better and more elegant than other sites.
+Therefore, an elegant and great design was needed.
+Functions for product listing, categorization, and inventory management.
+Functions for order processing, customer management, and integration with payment gateways
+
+Sport
+
+User authentication and authorization for secure login and access control.
+Product browsing, search, cart management, and secure payment processing functionality.
+
+Billing
+
+This site was created for a small company in Ecuador.
+Functions for generating invoices, tracking payments, and managing billing cycles.
+Functions for handling subscriptions, calculating prorated charges, and generating financial reports.
+
+
+Car
+
+User authentication, vehicle listing, search/filter options, and integration with payment gateways.
+Functions for managing inventory, processing sales, generating invoices, and facilitating communication between buyers and sellers.

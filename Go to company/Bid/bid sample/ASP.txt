@@ -1,0 +1,77 @@
+~~~~~~~~~~~~~~~~~Normal~~~~~~~~~~~~~~~~
+Hello.
+I have 12+ years experience in software engineering. 
+I have built multiple enterprise solutions based on enterprise architecture with major .NET and .NET core. 
+I have a great experience in Microsoft SQL Server and Postgre as relational approach. Also used Mongo and Dynamo database as No SQL. In terms of UI am depending on Angular or React to build responsive design. 
+In terms of queueing am also experienced in Rabbit MQ, Apache Kafka and Amazon SQS. 
+Am expert in using Azure git and agile , Jira and bitbucket as well Please let’s discuss your requirements. 
+Regards
+~~~~~~~~~~~~~~~~~FullStack~~~~~~~~~~~~~~~
+Hi
+Thanks for stopping here.
+I'm a senior software engineer with 8+ years of experience in C++ & C#, .NET development.
+I've just checked this project carefully and I think I'm well suited to this, bcoz my expertise and skills are suited to your project:
+✓ C++ • C# • .NET • ASP.NET MVC • ASP.NET Core
+✓ MSSQL • MySQL • MongoDB • PostgreSQL
+✓ ReactJS, Frontend Development, Bootstrap
+I will provide you Quick Project Deliveries and High Quality Work.
+"Honest before money, Quality before Quantity.", this is my motto on developing.
+Looking forward to discussing the project on Chat at your convenience.
+Thanks.
+~~~~~~~~~~~~~FullStack~~~~~~~~~~~~~~~~
+Main specialization:
+* developing Windows Desktop and Web solutions (mainly using C, C++, C#, ASP.NET)
+* converting/translating/porting code from one programming language to another programming language.
+*
+writing wrappers around miscellaneous libraries, packages and SDKs, mainly for using it with other programming languages
+Core: PHP, HTML, CSS, WordPress, Javascript, HTML, CSS, Angular, node.js, Ruby on Rails, React.js, ASP.NET, React Native, ExpressJS, AJAX, MVC, VB.NET, WPF, CMS, JSON, Vue.js, Docker, Odoo, RESTful API
+eCommerce: WooCommerce, BigCommerce, Shopify, Ecwid, Shopware, Prestashop, Joomla, Drupal, Zoho, Odoo, WHMCS, Yii, vTiger, SuiteCRM, SugarCRM
+
+Desktop: Java, Python, C# Programming, C Programming, Socket IO, Linux, C++, Programming, Delphi, Qt++, VB, Golang, Blockchain, Crypto Development
+
+
+Hello.
+I'm a software developer having more than 9 years of experience, I took part in making great applications built on top of the .NET platform.
+I can fix authorization issues of your project.
+Programming Languages and Work Domain:
+* ASP.Net, C#, MVC, .Net Core, MVVM, Web API, Razor Pages. Node, PHP, Laravel, Django
+* Entity Framework, LINQ, nHibernate
+* Proficient in XML technologies like XSL/XSLT, SAX, DOM, XPath, SOAP, WSDL, SOA Apache Axis.
+* Frontend: React.js, Redux, Blazor, Angular(1.x to 11), Angular Material Design,
+* Telerik, DevExpress, Infragistics
+* Design Patterns like Unity, Repository Pattern, Dependency Injection and IoC
+* JavaScript, Typescript, jQuery, HTML5, CSS3 and Bootstrap.
+* AWS Cloud, Microsoft Azure, AWS Lambda functions, Stored procedures, Serverless, AWS DynamoDB, MSSQL, MongoDB,
+* REST Web Services, 3rd Party APIs, Payment Gateways: PayPal, Stripe, SagePay
+* - Source Controls such as SVN/ TFS/ VSS/ GIT/ Source Gear Vault/Azure DevOps
+
+
+Database Management Systems :
+MySql,Sql Server, Aws DynamoDB, MongoDB, RedisDB, Azure CosmosDB, Cassandra, PostgreSql.
+
+Project Management Tools :
+Trello, Redmine, Atlassian JIRA, ClickUp, Clubhouse, Kiss flow
+
+Framework :
+.Net Framework 2.0,4.0,4.5. 4.6, .Net Standard, .Net Core 2.0, 2.1, 3.0, 5
+
+
+Version Control Systems :
+GIT,KDiff ,Bitbucket,Gitlab,Tortoise SVN,Github.
+I can work on your timezone and with fulltime as you want.
+I look forward to working with you!
+Thank you.
+
+
+I am a Microsoft.NET Professional with 17 years of experience in the IT industry and 11 years of experience working in the United States of America (USA). highly experienced in all aspects of the software development life cycle, from concept through to development and delivery. Consistently recognised as a hands-on and competent leader, skilled at coordinating cross-functional teams.
+
+I have experience of working with programming languages like C# , VB.NET ,ASP.NET, WCF, LINQ, ADO.NET, and Web Services, and I have experience of developing web applications using ASP.NET WebForms and ASP.NET MVC, and databases like Microsoft SQL Server and Oracle.
+
+I have experience of the full life cycle of product development, like system design and development, code review, implementation, and release management.
+
+I worked in test-driven development, mostly using NUNIT and Rhinomock, and used version control tools like GIT, SVN, TFS (Team Foundation Server), and VSS (Visual Source Safe).
+
+I have experience of using bug tracking and task management tools like JIRA and document management tools like Confluence and Sharepoint.
+
+
+fire fabric thunder someone measure fancy salad manage social face student receive

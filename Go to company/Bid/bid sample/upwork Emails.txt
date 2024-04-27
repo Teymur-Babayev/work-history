@@ -1,0 +1,78 @@
+Email
+	akrish.colburn@minutestep.com
+Password
+	honeydev829
+	
+
+* Information
+
+- Philippine Company
+  Development Bank Of The Philippines
+- Location
+  Pangasinan
+- Univeristy
+  Philippine Christian University
+- Degree
+  Bachelor of Computer Science (BCompSc)
+- Field of Study
+  Computer engineering
+- street
+  Poblacion
+- city
+  Alaminos
+- phone number
+  (075) 551-2118
+  
+  
+*******Profile description *************
+Title: 
+	Senior C#, ASP.NET, .NET and PHP developer
+Content:
+	Thank you for visiting my profile.
+	I'm a software developer having more than 9 years of experience, I took part in making great applications built on top of the .NET platform and Javascript related platforms.
+	I strive to be efficient and ensure all work is completed properly and without error, I work well on my own but am more than happy to work with others for collaborations or team-based projects.
+	I have a good knowledge of an application life cycle starting from scratch to delivery (design, implementation, debugging, testing and deployment).
+	Likewise, I take my position seriously, and I am completely dedicated and driven to succeed.
+
+	Programming Languages and Work Area:
+	.Net core (C#), Asp.net Web API/MVC, Node.js, Vue.Js, ReactJs, Angular, MEAN stack, MERN stack, MEVN stack, Next.js, Nuxt.js, Nest.js, Azure, AWS, Twilio, WPF, WCF, XAML, Entity Framework, Sequelize, Autofaq, Linq, Socket Programming, Socket.IO, WebRTC, Agora.io, Azure Functions, Azure App Services, Azure API Management or Gateway, Azure Web Jobs, Azure Notification Hub, Azure Application Insights, Azure Cognitive Services, Serverless.com, AWS, Lambda Functions, AWS CloudFront, Firebase, AWS App Sync, GraphQL, Hasura, GCP, Heroku, PowerBI.
+
+	Programming Methodologies and Patterns :
+	Microservices, MVC, MVVM, Singleton design pattern, Factory pattern, Command Pattern, ObserverPattern,
+	Object-Oriented Concepts(OOPs), Microservices, DDD(Domain Driven Design), TDD(Test Driven Design)
+
+	Web Technologies and Protocols :
+	ASP.NET,SOAP,REST,XMPP,JSON,OAUTH,Basic AUTH,HTML,XSLT,XML,FTP,
+	HTTP,SMTP,VBScript,RESTful Webservices, Socket.
+
+	Database Management Systems :
+	MySql,Sql Server, Aws DynamoDB, MongoDB, RedisDB, Azure CosmosDB, Cassandra, PostgreSql.
+
+	Web Service Testing Consoles :
+	Postman, REST Console, Swagger.
+
+	Server :
+	Docker, Kubernetes, IIS 6.0,7.0,8.0, Nginx, Express, Azure AKS, AWS containers
+
+	Project Management Tools :
+	Trello, Redmine, Atlassian JIRA, ClickUp, Clubhouse, Kiss flow
+
+	Framework :
+	.Net Framework 2.0,4.0,4.5. 4.6, .Net Standard, .Net Core 2.0, 2.1, 3.0, 5
+
+	Programming Environment :
+	Visual Studio 2017, 2019, Visual Studio Code
+
+	Version Control Systems :
+	GIT,KDiff ,Bitbucket,Gitlab,Tortoise SVN,Github.
+
+	Software development Methods :
+	Scrum and Agile(Sprint Cycles) methodologies.
+
+	Continuous Integration and Deployment :
+	CircleCI, Jenkins, App Harbor, Team Foundation Server with Git, Visual Studio Online.
+
+	CRM, CMS, and others :
+	trapi, Contentful, nopCommerce, Shopify, Scribe, Sitefinity, Apigee, Microsoft Intune, Microsoft CRM Dynamics 365, Salesforce, Hubspot, Zoho CRM, ArcGIS.
+	
+	

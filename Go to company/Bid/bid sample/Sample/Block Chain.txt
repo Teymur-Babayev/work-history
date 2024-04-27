@@ -1,0 +1,140 @@
+CryptoCurrency Trading bot
+Hello
+This project was inspired by the observation that all cryptocurrencies pretty much behave in the same way. When one spikes, they all spike, and when one takes a dive, they all do. Pretty much. Moreover, all coins follow Bitcoin's lead; the difference is their phase offset.
+
+So, if coins are basically oscillating with respect to each other, it seems smart to trade the rising coin for the falling coin, and then trade back when the ratio is reversed.
+
+Crypto trading bots are a great way to make money. They automate trades for you so that you can get more time to focus on other things in life. With these robots, it is possible to set the parameters of what kind of trading strategies they use and how often they trade. which time to trade and other resources needed to run on a server and lets you relax and make profits.
+
+---FEATURES---
+
+✅Low draw-down
+✅100% guaranteed to win
+✅Automatically buy & sell
+✅No-Risk and no loss, safest investment
+✅Average 60% monthly profit
+✅News survivor and only robot for the long run.
+✅Minimum investment needed is 200$ but recommended is 1000$ as initial
+
+THANKS....
+
+
+Blockchain Game 
+Hi!
+I am professional Blockchain coder with skills including Solidity, Blockchain, Smart Contracts and DEX,CEX, DIO.
+
+I am Web and mobile developer focussed on blockchain and crypto-related projects, building custom Apps, crypto gambling and betting platforms, trading platforms and exchanges, crypto lending and payment solutions.
+
+Solutions I provide:
+- DEX and Centralized Crypto Exchange
+- Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+- Web/Mobile Wallet
+- Crypto Betting and Casino
+- Yield Farming Protocols
+- Liquidity Mining Protocols
+- P2P/Pool Lending and Borrowing
+- Crypto Collectible Platforms and Non-Fungible Tokens
+- Custom dApps
+- ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+- Forsage, Linos Share, BestMining like MLM Crowdfunding HYIP Platforms
+- Blockchain Copyrighting and Whitepapers
+
+- API Development and Integration:
+blockchain.info, inrura.io, poloniex.com, bitfinex.com, hitbtc.com, coinbase.com, kraken.com, cex.io, coinmarketcap.com, cryptokitties.co, uniswap.org, aave.com, yearn.finance, sushiswap.org
+
+- DeFi development:
+Yearn, Uniswap, Curve, Balancer, Synthetic, Compound, Aave, Mooniswap, Fulcrum, dYdX, Sushi Swap, Zapper, Maker, insstaDApp, Bancor, Loopring, Polkadot, Substrate, WBTC, RenVM, DDorce, mStable, Alchemy, Binance Launchpool (BellaProtocol), MLM, NFT, BakerySwap,
+
+- Blockchain stack :
+Web3, Solidity, Infura, Truffle, MIST/
+
+Please send a message to discuss more regarding this project.
+Thanks
+
+
+Hello.
+I have read your job description and have all kind of skills you need.
+As a junior blockchain developer, I have 4+ years of experience in blockchain application development such as NFT marketplce, NFT game and various token development using solidity, web3.js, ethers.js, Vue.js and React.js.
+I am competent in Smart Contract such as ERC20, BEP20, ERC721, ERC1155, Lottery, Airdrop and staking and so on.
+I have enough ability to build blockchain application with advantages such as hight speed, accuracy, transparency and so on, by solidity and I love to build enhanced and optimized smart contract in gas consumption.
+I also have developed so many React applications including frontend for NFT marketplace under the pretty design and best React component libraries such as Chakra UI.
+Please feel free to contact me to discuss further.
+Thanks.
+
+https://fractional.art/
+https://operahouse.online/
+https://www.artblocks.io/
+https://www.celebart.io/
+https://420.game.com/
+https://kangaroocoinflip.io
+
+
+
++++++++++++++++ Smart Contract ++++++++++++++
+Hello. How are you?  As a senior Blockchain developer, I am having 4+ years experience with proficiency in CrptoWallet payment | NFT Marketplace |Smart Contract Development | Blockhain Development | NFT| ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps.
+
+I evaluate, develop and maintain blockchain and Cryptocurrency related products.
+
+Here is My past work:
+
+- Multi Chain wallet, Deposit, withdraw, Swap, Transfer 
+  https://dex.raydium.io
+  https://francium.io/app/invest/farm
+  https://incognitonft.com/
+  
+- IDO Launchpad platform 
+  https://sit.corestarter.com/
+
+- Trading Bot Websites
+  https://www.bitcoiva.com/trade/BCA_INR
+- Mint Site
+
+  https://mysticwizards.io/
+  https://www.thepoopstars.com/
+  https://mruncommon.io
+  https://www.curiousaddys.com/
+
+
+My Expertise :
+• Trading for CryptoCurrency
+
+• (Non Fungible Token) Marketplace Development
+
+• Crypto Coins Exchange Development
+
+• ICO & IDO Development with Created Token ( Coin )
+
+• Smart-Contracts (Solana, Solidity, Truffle framework)
+
+• Smart Contracts Audits
+
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+
+• DLT Apps & Private Blockchain Development
+
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+
+I can work on your timezone and with fulltime so I hope I can work with you for long term.
+Let's discuss in more detail via chat.
+Thanks
+
++++++++++++++++++++ Smart Contract 2 +++++++++++++
+Hi, there.
+As a senior full-stack and Blockchain developer, 4 years of development and project management experience, with the last 5 years of expertise in Blockchain architecture, Cryptocurrency Wallet Development, Smart Contract, Crypto Coins Exchange Development.
+Looking for long-term opportunities that appreciate high-quality standards with quality and maintenance code.
+
+SERVICE :
+- Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | TRON)
+o ERC-20 | ERC-721 | ERC-1155 | ERC-721A
+o Crypto Coins Exchange Development
+o Decentralized Finance(Defi)
+o NFT marketplace
+o Development and Audit Smart Contract
+o DEX Development         
+
+EXPERIENCE :
+- Solidity, TronWeb, Web3.js
+- NodeJS | ReactJs | VueJs | Angular
+
+Looking forward to hearing from you soon.
+Best Regards

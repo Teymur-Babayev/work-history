@@ -1,0 +1,176 @@
+1. Introduce Myself.
+------------------------------
+My name is Teymur Babayev, was born in Azerbaijan on February 14, 1994 and live in the capital Baku.
+Ever since was young, was determined to become a great computer programmer.
+But great person, even though he wants to be, won't do it very well.
+Everyone sets high goals, but few achieve them.
+I believe that anyone can achieve the goals they set if they believe in themselves, learn hard, and work hard with high mental strength and perseverance.
+
+As a MERN Stack expert  who mastered React  with over 8 years of experience, I believe I have the skills and expertise needed to program the idea you are looking for.
+Passionate software developer with 8+ years of hands-on experience in developing scalable websites/applications using a wide range of frontend and back-end skills like HTML, CSS, JavaScript, React, Redux, Node.js, WebSocket etc.
+
+In particular, I love the MERN Stack the most, and I have deep knowledge and confidence in its strengths and attributes.
+
+Also, Proficient at performing well as working in a group or independently in a fast-paced setting.
+I am a passionate, diligent  hard-working a team player.
+---------------------------------
+
+2 What is your greatest strength?
+----------------------------------
+I believe that even details that are not easily visible are important parts of design.
+As a passionate developer who is always dissatisfied with myself, learns humbly, and has the spirit of completing to the end what I starts.
+
+My goal is to always create a flawless project and become number one in the field, 
+and it is equally important to ensure that it is executed efficiently and optimally.
+
+There may be unexpected errors or other things that arise during the process of completing a task, but if you believe in yourself 
+and go forward with high mental strength and steady patience, there is nothing you can't do.
+Also, I am sensitive to new things and believe that even if I know something, I have to know it to the end before I can say that I know it and create my own products.
+I think where there is a will, there is  a way.
+
+Because I have something like this properties, I speak out loud. I have mastered React...
+-----------------------
+
+3. What is your greatest weakness?
+------------------------
+
+ok, I think one thing that I can always improve about my greatest weakness.
+My friends keep giving me advice, but it's difficult to change, perhaps because it's my personality.
+But you can also see that as my charm.
+It means that if I set a goal, I don't leave the workplace until I achieve it.
+My friends keep telling me that my  bodies are being overworked even though it won't end in just a day or two.
+However, if I say that I will finish the work by the next day, I can't break it, so I work without eating.
+So I'm trying to fix it now.
+--------------------------------------
+
+4 Why should we hire you?
+--------------------------------------
+Everyone wants to get a job at a great company, but things often don't go as planned.
+I believe that one of the reasons is to think about the results of one's own special skills and passionate efforts.
+
+For example, let's say there are two people.
+One is a college student and the other is a middle school student.
+What do you think will happen if you ask them to earn $1000 through IT development in one year from now?
+May I ask you a question?
+I think like this.
+There is no reason why two people cannot earn money.
+It depends on which of them can achieve it faster, and since college students currently have the highest intellectual potential, the odds are high for them, 
+but there is no reason why students can't also earn it.
+It depends on who explores more and makes more passionate efforts, and I think anyone can do it.
+
+This is because I am a MERN Stack developer who has mastered React through really passionate development work.
+
+if you choose  me you will nerver be disappointed in my skills and I will do my best.
+Also I will provide you full time working and try to finish successfully your idea.
+
+My this letter doesn't mean letter of extempore.
+We live in the different country each other.
+In the future. by way of timeless friendship,
+You and me, This is letter of sincerity I hope that love each other and help each other.
+This is letter of sincerity 
+-------------------------------------
+
+5. Why do you want to work here?
+-------------------------------------
+I felt that this was the right place for my experience and skills .
+With over 8 years a decade of experience as a web developer, 
+I am confident in my ability to bring your idea to life. I have an extensive background in using UX/UI—a skill that aligns perfectly with your idea requirements. 
+One aspect of your idea that particularly excites me is visually appealing and user-friendly  webpage. My previous experience in this area makes me confident that 
+I can deliver seamless integration without compromising on security aspects. Additionally, social media and email service integration are services 
+I'm well-versed in, and can extend to enhance communication amongst your users.
+As an experienced MERN Stack  who  Mastered React believe I have the skills and expertise needed to design and program your idea you are looking for.
+-------------------------------------
+
+6. Tell me about a time you were successful on a team.
+-------------------------------------
+I am complted  many kind of Shopping Site and E-commerce Site using MERN Stack.
+
+My proficiency in  Shopping Site, E-commerce Site , Shopify and databases like MySQL and MongoDB, 
+puts me in a strong position to build efficient and secure systems that meet your business needs.
+
+I also have a deep understanding of RESTful API, SEO technologies, which will prove to be very useful when integrating external services to ensure smooth functioning. 
+-------------------------------------
+
+7. Why do you want to leave your current role?
+----------------------------------
+I’ve enjoyed my time with my current employer, and have grown a lot in my role.
+Also, I have developed many potential players for my team and congratulations on getting a job at another great company, 
+and my departure does not mean I am leaving their side completely.
+If a problem arises, I will give my all for my old friends.
+----------------------------------
+
+8 .Describe your most challenging project.
+----------------------------------
+First of all, the overall project design must be done.
+An optimized data base corresponding to the required items must be established in detail.
+Next, I need to program and create the backend and build the frontend.
+--------------------------------
+
+9. What are your salary expectations?
+--------------------------------
+My salary expectations are $30 to $40.
+My budget is not high.
+--------------------------------
+
+10 What do you like to do outside of work?
+--------------------------------
+I love volleyball and football.
+I have enjoyed this ball game for a long time, as it contributes to the success of the team through special skills and fosters a good spirit of cooperation.
+--------------------------------
+
+11.Where do you see yourself in 5 years?
+--------------------------------
+As a great program developer in this field, I wanna my life meaningfully by creating many great products that everyone likes and loves.
+--------------------------------
+
+12.Describe your leadership style.
+-------------------------------
+My leadership style can be summed up in three words: empathetic, inclusive, and supportive.
+I believe that a leader should always work to create a welcoming and open environment for all members of the team.
+I put a lot of effort into understanding the needs and concerns of my team, and aim to create a safe and collaborative space where everyone feels valued and supported. 
+Additionally, I place a strong emphasis on inclusive decision-making and always strive to involve all members of the team in the decision-making process. 
+Finally, I am a strong believer in the importance of ongoing learning and development, 
+and I am always looking for ways to help my team members grow and develop their skills
+-----------------------------
+
+13. Requirements
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)
+
+Strong knowledge of HTML5, CSS3, and JavaScript
+
+Experience with front-end frameworks (such as React, Angular, or Vue.js)
+
+Proficiency in at least one server-side programming language (Python, Ruby, Node.js, etc.)
+
+Familiarity with databases and SQL
+
+Understanding of RESTful APIs and web services
+
+Experience with version control systems (e.g., Git)
+
+Good problem-solving and analytical skills
+
+Excellent communication and teamwork abilities
+
+
+Preferred Qualifications:
+
+
+Familiarity with back-end frameworks (such as Django, Ruby on Rails, Express, etc.)
+
+Knowledge of NoSQL databases (MongoDB, Firebase, etc.)
+
+Understanding of web security best practices
+
+Familiarity with cloud platforms (AWS, Azure, Google Cloud)
+
+Experience with testing frameworks (Jest, Mocha, Jasmine, etc.)
+
+Projects or personal portfolio showcasing your full-stack development skills
+
+
+Start your answer with "Generally speaking, I think that". As an experienced Senior Full Stack developer who Mastered PHP, MERN Stack, Database Management with over 9 years of experience.
+
+
+-----------------------

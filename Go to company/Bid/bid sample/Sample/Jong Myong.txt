@@ -1,0 +1,64 @@
+Hello my Client.
+I'm a experienced blockchain-enthusiast and full stack developer, mostly working with Blockchain and Front-end.
+I have 10 years of programming and especially 5 years of blockchain development.
+
+My Expertise:
+- Chain : Ethereum, Solona, BSC, Polygon, Avalanche ...
+- Contract : Solidity, Rust + Hardhat, Truffle / Remix.(OpenZeppelin) ...
+- Token : ERC-20, ERC-721, ERC-721A, ERC-1155
+- Integrating with Web3.js, Ether.js
+- Frontend : React, Vue, Angular, Next JS and Node.js ...
+- Rich experience in developing Defi and Dapps ...
+- Uploading to IPFS using moralis, Pinata
+- NFT Metadata, Collection Generation, Minting, Marketplace ...
+- Minter in candy machine and were opting in for metaplex, 10% royalty moved to burn and other wallets
+- Specialized in Uniswap, Sushiswap, Swapping tokens, Staking, Yield Farming, Lottery Smart Contracts etc
+
+I want to have a long-term relationship with you so I will do my best.
+Please share me your plans in more detail so I can understand more about your project.
+Let's discuss more via chatting or call.
+Thanks and Regards.
+
+
+
+Greetings,
+
+Since I'm a new comer to FREELANCER, I do have extended experience in Blockchain Dapp development over 4+ years. As I do have hands on experience in Web3 js, MEAN and MERN stack technologies. Also well expertise in smart contract development by using SOLIDITY/RUST programming languages .
+
+I prefer to work on your work.(Building a 2 interlinked crypto)
+
+Have a glance over my previous work(Integration of wallet)
+https://cafeswap.finance/
+
+NOTE: Exact cost and timeline can be decided once you join with us.
+
+If my above experience sounds interesting for you, grab the opportunity to build the SUCCESS!!
+
+I'll be awaiting before my PC for your hopeful response!!!
+
+Regards,
+
+
+
+
+Hi. A blockchain expert is here.
+I have read your description carefully and feel that I would be a good match for the project.
+As a professional blockchain developer with perfect logic and a great passion for software development.
+I have 3+ years of Blockchain developing experience.
+
+Below are my skillsets :
+- solidity smart contract development with BEP20, ERC-20, ERC-223, ERC-721, ERC-1155
+- NFT minting sites and NFT marketplace
+- Dapp & API development with javascript/python (web3.js and 0x.js)
+- Staking and Farming contracts
+- decentralized autonomous organization (DAO) creating
+- AWS scalable architecture
+
+Well-versed in the following programming languages:
+- React.js, Vue.js, Next.js, Node/Express JS, Web3js
+- Laravel, CodeIgniter, Wordpress,
+- MongoDB, Firebase, PostgreSQL, SQLServer, MySQL
+
+I can finish this project perfectly with my rich experiences.
+Hope to work together.
+Best regards.
